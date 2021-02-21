@@ -1,14 +1,12 @@
-KBA-BII Project
+# KBA-BII Project
 
 February 21, 2021
 
-# Draft report
+## Draft report
 
-# Main text
+### Main text
 
   - [View/edit report](https://docs.google.com/document/d/1GmmJCfQy2z-nv_v8sqYaROVBkN32_UNdB72mt03KCMk/edit?usp=sharing)
-
-## Appendices
 
 ### Appendix 1 - Forest-associated Songbirds
 
