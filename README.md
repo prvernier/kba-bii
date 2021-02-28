@@ -11,7 +11,7 @@ Updated: February 21, 2021
 Appendix 1. Boreal songbirds
 
   - Common and scientific names of test species. The forest habitat assemblage includes 52 species that are primarily associated with forested habitats (Boreal Avian Modelling Project 2020)
-  - https://prvernier.github.io/kba-bii/species_codes.csv
+  - https://github.com/prvernier/kba-bii/data/species_codes.csv
 
 Appendix 2. Regression models
 
